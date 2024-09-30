@@ -27,10 +27,10 @@ and prints the corresponidng letter grade (A-F)'''
 # else:
 #     print("You have failed, your grade - F.")
 '''4. Given a string, print "Hello" if it is "World", otherwise print "Goodbye".'''
-str = input(" Enter ur string: ")
-if str == "World":
-    print("Hello " + str)
-else:
-    print("Goodbye.")
+# str = input(" Enter ur string: ")
+# if str == "World":
+#     print("Hello " + str)
+# else:
+#     print("Goodbye.")
     
     
